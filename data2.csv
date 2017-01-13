@@ -1,11 +1,11 @@
-State,Total Minority Percent,Total Non-Minority Percent
+State,Minority Percent,Non-Minority Percent
 NYPD,19.598,21.402
-Chicago Police,21.076,22.924
+Chicago,21.076,22.924
 LAPD,16.796,9.204
-Philadelphia Police,18.144,23.856
-Houston Police,13.725,11.275
-DC Metropolitan Police ,41.724,19.276
-Dallas Police,12.936,15.064
-Phoenix Police,4.68,15.32
-Baltimore Police,23.171,23.829
-Miami-Dade Police,17.072,4.928
+Philadelphia,18.144,23.856
+Houston,13.725,11.275
+DC,41.724,19.276
+Dallas,12.936,15.064
+Phoenix,4.68,15.32
+Baltimore,23.171,23.829
+Miami-Dade,17.072,4.928
